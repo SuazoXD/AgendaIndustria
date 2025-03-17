@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\Actividad\" />
+    <Folder Include="DTOs\Catalog\" />
+    <Folder Include="DTOs\Packages\" />
+    <Folder Include="DTOs\Tarea\" />
+    <Folder Include="DTOs\Tipo\" />
+    <Folder Include="DTOs\Usuario\" />
+    <Folder Include="Interfaces\Actividades\" />
+    <Folder Include="Interfaces\Packages\" />
+    <Folder Include="Interfaces\Tareas\" />
+    <Folder Include="Interfaces\Tipos\" />
+    <Folder Include="Interfaces\Usuarios\" />
+    <Folder Include="Services\Actividades\" />
+    <Folder Include="Services\Catalog\" />
+    <Folder Include="Services\Packages\" />
+    <Folder Include="Services\Tareas\" />
+    <Folder Include="Services\Tipos\" />
+    <Folder Include="Services\Usuarios\" />
+  </ItemGroup>
+
+</Project>
