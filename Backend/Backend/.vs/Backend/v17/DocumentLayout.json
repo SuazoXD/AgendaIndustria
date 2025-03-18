@@ -1,21 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\",
+  "WorkspaceRootPath": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|c:\\users\\luisn\\onedrive\\desktop\\agendaindustria\\agendaindustria\\backend\\backend\\infrastructure\\persistence\\backenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B9D910F-8BFE-4C02-BDF2-E00B72635203}|Domain\\Domain.csproj|c:\\users\\sosan\\desktop\\agenda\\agendaindustria\\backend\\backend\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9D910F-8BFE-4C02-BDF2-E00B72635203}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9D910F-8BFE-4C02-BDF2-E00B72635203}|Domain\\Domain.csproj|c:\\users\\sosan\\desktop\\agenda\\agendaindustria\\backend\\backend\\domain\\entities\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9D910F-8BFE-4C02-BDF2-E00B72635203}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9D910F-8BFE-4C02-BDF2-E00B72635203}|Domain\\Domain.csproj|c:\\users\\sosan\\desktop\\agenda\\agendaindustria\\backend\\backend\\domain\\entities\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9D910F-8BFE-4C02-BDF2-E00B72635203}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9D910F-8BFE-4C02-BDF2-E00B72635203}|Domain\\Domain.csproj|c:\\users\\sosan\\desktop\\agenda\\agendaindustria\\backend\\backend\\domain\\entities\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9D910F-8BFE-4C02-BDF2-E00B72635203}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9D910F-8BFE-4C02-BDF2-E00B72635203}|Domain\\Domain.csproj|c:\\users\\sosan\\desktop\\agenda\\agendaindustria\\backend\\backend\\domain\\common\\entitycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9D910F-8BFE-4C02-BDF2-E00B72635203}|Domain\\Domain.csproj|solutionrelative:domain\\common\\entitycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9D910F-8BFE-4C02-BDF2-E00B72635203}|Domain\\Domain.csproj|c:\\users\\sosan\\desktop\\agenda\\agendaindustria\\backend\\backend\\domain\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9D910F-8BFE-4C02-BDF2-E00B72635203}|Domain\\Domain.csproj|solutionrelative:domain\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9D910F-8BFE-4C02-BDF2-E00B72635203}|Domain\\Domain.csproj|c:\\users\\sosan\\desktop\\agenda\\agendaindustria\\backend\\backend\\domain\\common\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9D910F-8BFE-4C02-BDF2-E00B72635203}|Domain\\Domain.csproj|solutionrelative:domain\\common\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9D910F-8BFE-4C02-BDF2-E00B72635203}|Domain\\Domain.csproj|c:\\users\\sosan\\desktop\\agenda\\agendaindustria\\backend\\backend\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B9D910F-8BFE-4C02-BDF2-E00B72635203}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|c:\\users\\sosan\\desktop\\agenda\\agendaindustria\\backend\\backend\\infrastructure\\persistence\\backenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\backenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|c:\\users\\luisn\\onedrive\\desktop\\agendaindustria\\agendaindustria\\backend\\backend\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|c:\\users\\sosan\\desktop\\agenda\\agendaindustria\\backend\\backend\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C1D7B7-6197-4CAA-8C0B-549D91835D61}|Aplication\\Aplication.csproj|c:\\users\\luisn\\onedrive\\desktop\\agendaindustria\\agendaindustria\\backend\\backend\\aplication\\aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{27C1D7B7-6197-4CAA-8C0B-549D91835D61}|Aplication\\Aplication.csproj|c:\\users\\sosan\\desktop\\agenda\\agendaindustria\\backend\\backend\\aplication\\aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{27C1D7B7-6197-4CAA-8C0B-549D91835D61}|Aplication\\Aplication.csproj|solutionrelative:aplication\\aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|c:\\users\\luisn\\onedrive\\desktop\\agendaindustria\\agendaindustria\\backend\\backend\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|c:\\users\\sosan\\desktop\\agenda\\agendaindustria\\backend\\backend\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,45 +58,148 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:06:28.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tipo.cs",
+              "DocumentMoniker": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Domain\\Entities\\Tipo.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Tipo.cs",
+              "ToolTip": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Domain\\Entities\\Tipo.cs",
+              "RelativeToolTip": "Domain\\Entities\\Tipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:06:01.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Domain\\Entities\\Tarea.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Tarea.cs",
+              "ToolTip": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Domain\\Entities\\Tarea.cs",
+              "RelativeToolTip": "Domain\\Entities\\Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:05:43.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Actividad.cs",
+              "DocumentMoniker": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Domain\\Entities\\Actividad.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Actividad.cs",
+              "ToolTip": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Domain\\Entities\\Actividad.cs",
+              "RelativeToolTip": "Domain\\Entities\\Actividad.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA9wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:05:11.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Domain\\Common\\EntityCatalog.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\EntityCatalog.cs",
+              "ToolTip": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Domain\\Common\\EntityCatalog.cs",
+              "RelativeToolTip": "Domain\\Common\\EntityCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:04:35.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Domain\\Common\\Entity.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\Entity.cs",
+              "ToolTip": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Domain\\Common\\Entity.cs",
+              "RelativeToolTip": "Domain\\Common\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:04:20.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Domain\\Common\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\AggregateRoot.cs",
+              "ToolTip": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Domain\\Common\\AggregateRoot.cs",
+              "RelativeToolTip": "Domain\\Common\\AggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:03:42.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T04:03:10.72Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "BackendDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Persistence\\BackendDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Persistence\\BackendDBContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistence\\BackendDBContext.cs",
-              "ToolTip": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Persistence\\BackendDBContext.cs",
+              "ToolTip": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Persistence\\BackendDBContext.cs",
               "RelativeToolTip": "Infrastructure\\Persistence\\BackendDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T16:45:35.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Aplication.csproj",
-              "DocumentMoniker": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Aplication\\Aplication.csproj",
+              "DocumentMoniker": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Aplication\\Aplication.csproj",
               "RelativeDocumentMoniker": "Aplication\\Aplication.csproj",
-              "ToolTip": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Aplication\\Aplication.csproj",
+              "ToolTip": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Aplication\\Aplication.csproj",
               "RelativeToolTip": "Aplication\\Aplication.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-17T06:18:57.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T06:18:57.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\DependencyInjection.cs",
               "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,16 +207,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\sosan\\Desktop\\Agenda\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Infrastructure.csproj",
               "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-17T06:08:11.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T06:08:11.865Z"
             }
           ]
         }

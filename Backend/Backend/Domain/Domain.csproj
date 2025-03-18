@@ -9,8 +9,6 @@
   <ItemGroup>
     <Folder Include="AggregateRoots\Actividades\" />
     <Folder Include="AggregateRoots\Tareas\" />
-    <Folder Include="Entities\" />
-    <Folder Include="Common\" />
   </ItemGroup>
 
 </Project>
