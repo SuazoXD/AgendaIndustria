@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|c:\\users\\luisn\\onedrive\\desktop\\agendaindustria\\agendaindustria\\backend\\backend\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|c:\\users\\luisn\\onedrive\\desktop\\agendaindustria\\agendaindustria\\backend\\backend\\infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|c:\\users\\luisn\\onedrive\\desktop\\agendaindustria\\agendaindustria\\backend\\backend\\infrastructure\\repositories\\usuarios\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\usuarios\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|c:\\users\\luisn\\onedrive\\desktop\\agendaindustria\\agendaindustria\\backend\\backend\\infrastructure\\repositories\\tipos\\tiporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\tipos\\tiporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|c:\\users\\luisn\\onedrive\\desktop\\agendaindustria\\agendaindustria\\backend\\backend\\infrastructure\\repositories\\tareas\\tareasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\tareas\\tareasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|c:\\users\\luisn\\onedrive\\desktop\\agendaindustria\\agendaindustria\\backend\\backend\\infrastructure\\repositories\\actividades\\actividadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\actividades\\actividadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|c:\\users\\luisn\\onedrive\\desktop\\agendaindustria\\agendaindustria\\backend\\backend\\infrastructure\\repositories\\packages\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\packages\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|c:\\users\\luisn\\onedrive\\desktop\\agendaindustria\\agendaindustria\\backend\\backend\\infrastructure\\persistence\\backenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\backenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|c:\\users\\luisn\\onedrive\\desktop\\agendaindustria\\agendaindustria\\backend\\backend\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{934804EC-A6F4-444B-9021-E36FC180C0C7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1D7B7-6197-4CAA-8C0B-549D91835D61}|Aplication\\Aplication.csproj|c:\\users\\luisn\\onedrive\\desktop\\agendaindustria\\agendaindustria\\backend\\backend\\aplication\\aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27C1D7B7-6197-4CAA-8C0B-549D91835D61}|Aplication\\Aplication.csproj|solutionrelative:aplication\\aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Repositories\\Usuarios\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Usuarios\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Repositories\\Usuarios\\UsuarioRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Usuarios\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:09:41.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository.cs",
+              "ToolTip": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:09:58.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:09:48.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TipoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Repositories\\Tipos\\TipoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Tipos\\TipoRepository.cs",
+              "ToolTip": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Repositories\\Tipos\\TipoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Tipos\\TipoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:08:58.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TareasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Repositories\\Tareas\\TareasRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Tareas\\TareasRepository.cs",
+              "ToolTip": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Repositories\\Tareas\\TareasRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Tareas\\TareasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:08:49.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActividadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Repositories\\Actividades\\ActividadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Actividades\\ActividadRepository.cs",
+              "ToolTip": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Repositories\\Actividades\\ActividadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Actividades\\ActividadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:07:37.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PackageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Repositories\\Packages\\PackageRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Packages\\PackageRepository.cs",
+              "ToolTip": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Repositories\\Packages\\PackageRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Packages\\PackageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:08:23.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BackendDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Persistence\\BackendDBContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\BackendDBContext.cs",
+              "ToolTip": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Persistence\\BackendDBContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\BackendDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:45:35.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Aplication.csproj",
+              "DocumentMoniker": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Aplication\\Aplication.csproj",
+              "RelativeDocumentMoniker": "Aplication\\Aplication.csproj",
+              "ToolTip": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Aplication\\Aplication.csproj",
+              "RelativeToolTip": "Aplication\\Aplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T06:18:57.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\luisn\\OneDrive\\Desktop\\AgendaIndustria\\AgendaIndustria\\Backend\\Backend\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T06:08:11.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
