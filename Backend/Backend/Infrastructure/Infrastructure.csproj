@@ -20,12 +20,4 @@
     <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repositories\Actividades\" />
-    <Folder Include="Repositories\Usuarios\" />
-    <Folder Include="Repositories\Tipos\" />
-    <Folder Include="Repositories\Tareas\" />
-    <Folder Include="Repositories\Packages\" />
-  </ItemGroup>
-
 </Project>
