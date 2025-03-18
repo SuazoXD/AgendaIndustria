@@ -6,3 +6,41 @@ backend/Aplication/obj
 backend/*/bin
 backend/*/obj
 backend/API/.env
+# Ignora la carpeta .vs que crea Visual Studio
+.vs/
+**/.vs/
+
+# Ignora los archivos de caché de Visual Studio
+*.dbtcache.v2
+*.futdcache.v2
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignora los archivos de configuración y backup
+*.backup.json
+DocumentLayout.json
+
+# Ignora archivos binarios que genera VS
+*.bin
+
+# Carpetas típicas de compilación .NET
+bin/
+obj/
+
+# Si usás NuGet
+*.nupkg
+packages/
+
+# Archivos de lock
+project.lock.json
+project.assets.json
+
+# Resharper / Rider
+*.DotSettings.user
+*.ReSharper
+*_Resharper.*
+
+# (Opcional) Ignora archivos de logs
+*.log
